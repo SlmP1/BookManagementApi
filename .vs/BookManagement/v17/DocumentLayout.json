@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\migrations\\20250222210838_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\migrations\\20250222210838_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:migrations\\20250222210838_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\models\\dto\\updatebookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\models\\dto\\updatebookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:models\\dto\\updatebookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\models\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\models\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:models\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\bookmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\bookmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:bookmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\data\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\data\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:data\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\bookmanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\bookmanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:bookmanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\unrar\\project\\bookmanagement\\migrations\\20250222183022_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|c:\\users\\giorgio_calabria\\desktop\\project\\bookmanagement\\migrations\\20250222183022_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE3A53B5-14EC-4276-B45E-6042FA5BEE6E}|BookManagementApi.csproj|solutionrelative:migrations\\20250222183022_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -87,23 +87,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookDto.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Models\\DTO\\BookDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\BookDto.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Models\\DTO\\BookDto.cs",
-              "RelativeToolTip": "Models\\DTO\\BookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:42:18.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Mappings\\AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Mappings\\AutoMapperProfiles.cs",
               "RelativeDocumentMoniker": "Mappings\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Mappings\\AutoMapperProfiles.cs",
               "RelativeToolTip": "Mappings\\AutoMapperProfiles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,55 +99,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T13:54:01.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T13:54:01.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SQLBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Repositories\\SQLBookRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\SQLBookRepository.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Repositories\\SQLBookRepository.cs",
-              "RelativeToolTip": "Repositories\\SQLBookRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:44:32.246Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T12:17:42.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SQLBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Repositories\\SQLBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SQLBookRepository.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Repositories\\SQLBookRepository.cs",
+              "RelativeToolTip": "Repositories\\SQLBookRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T08:43:19.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T12:44:32.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Repositories\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Repositories\\IBookRepository.cs",
-              "RelativeToolTip": "Repositories\\IBookRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Models\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Models\\DTO\\BookDto.cs",
+              "RelativeToolTip": "Models\\DTO\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:44:09.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T12:42:18.538Z"
             },
             {
               "$type": "Bookmark",
@@ -169,49 +153,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AddBookRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Models\\DTO\\AddBookRequestDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\AddBookRequestDto.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Models\\DTO\\AddBookRequestDto.cs",
-              "RelativeToolTip": "Models\\DTO\\AddBookRequestDto.cs",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T18:35:22.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T08:43:19.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-22T12:17:42.723Z",
-              "EditorCaption": ""
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:44:09.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBookRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Models\\DTO\\AddBookRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\AddBookRequestDto.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Models\\DTO\\AddBookRequestDto.cs",
+              "RelativeToolTip": "Models\\DTO\\AddBookRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:35:22.049Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "20250222210838_AddUserTable.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Migrations\\20250222210838_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Migrations\\20250222210838_AddUserTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20250222210838_AddUserTable.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Migrations\\20250222210838_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Migrations\\20250222210838_AddUserTable.cs",
               "RelativeToolTip": "Migrations\\20250222210838_AddUserTable.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T08:07:21.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T08:07:21.897Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UpdateBookRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Models\\DTO\\UpdateBookRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Models\\DTO\\UpdateBookRequestDto.cs",
               "RelativeDocumentMoniker": "Models\\DTO\\UpdateBookRequestDto.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Models\\DTO\\UpdateBookRequestDto.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Models\\DTO\\UpdateBookRequestDto.cs",
               "RelativeToolTip": "Models\\DTO\\UpdateBookRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,22 +214,21 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:17:44.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T12:17:44.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Models\\Domain\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Models\\Domain\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Domain\\Book.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Models\\Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Models\\Domain\\Book.cs",
               "RelativeToolTip": "Models\\Domain\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,9 +238,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "20250222183022_Initial Create.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Migrations\\20250222183022_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Migrations\\20250222183022_Initial Create.cs",
               "RelativeDocumentMoniker": "Migrations\\20250222183022_Initial Create.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Migrations\\20250222183022_Initial Create.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Migrations\\20250222183022_Initial Create.cs",
               "RelativeToolTip": "Migrations\\20250222183022_Initial Create.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,9 +250,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "BookManagementApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\BookManagementApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\BookManagementApi.csproj",
               "RelativeDocumentMoniker": "BookManagementApi.csproj",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\BookManagementApi.csproj",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\BookManagementApi.csproj",
               "RelativeToolTip": "BookManagementApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -270,9 +262,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "BookManagementDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Data\\BookManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Data\\BookManagementDbContext.cs",
               "RelativeDocumentMoniker": "Data\\BookManagementDbContext.cs",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\Data\\BookManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\Data\\BookManagementDbContext.cs",
               "RelativeToolTip": "Data\\BookManagementDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -282,9 +274,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "BookManagementApi",
-              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\BookManagementApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\BookManagementApi.csproj",
               "RelativeDocumentMoniker": "BookManagementApi.csproj",
-              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\BookManagementApi.csproj",
+              "ToolTip": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\BookManagementApi.csproj",
               "RelativeToolTip": "BookManagementApi.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-22T12:17:20.559Z"

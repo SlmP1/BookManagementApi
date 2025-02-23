@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\BookManagementApi.csproj": {}
+    "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\BookManagementApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\BookManagementApi.csproj": {
+    "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\BookManagementApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\BookManagementApi.csproj",
+        "projectUniqueName": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\BookManagementApi.csproj",
         "projectName": "BookManagementApi",
-        "projectPath": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\BookManagementApi.csproj",
+        "projectPath": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\BookManagementApi.csproj",
         "packagesPath": "C:\\Users\\Giorgio_Calabria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\obj\\",
+        "outputPath": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Giorgio_Calabria\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igDfnYuCtuE=",
+  "dgSpecHash": "NE6DsAGwDF4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Giorgio_Calabria\\Desktop\\UnRar\\project\\BookManagement\\BookManagementApi.csproj",
+  "projectFilePath": "C:\\Users\\Giorgio_Calabria\\Desktop\\project\\BookManagement\\BookManagementApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Giorgio_Calabria\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Giorgio_Calabria\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
