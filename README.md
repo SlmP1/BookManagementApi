@@ -3,8 +3,7 @@
 ## Description
 The **Book Management API** is a robust and scalable RESTful service designed to manage book data for libraries, bookstores, or any system that handles book inventories. It is built using **ASP.NET Core 8.0** and **SQL Server** with **Entity Framework Core (EF Core), The API supports **CRUD (Create, Read, Update, Delete) that allows users to manage book information. The API also  uses **JWT (JSON Web Token)** authorization, ensuring secure access for authenticated users.
 
-Key features of the API include:
-
+Key Features
 Book Creation: Add new books individually or in bulk.
 Book Retrieval: Fetch a list of books with support for pagination and sorting (by popularity), or retrieve detailed information for a specific book by its ID.
 Book Updates: Update book information with validation to prevent duplicate titles.
